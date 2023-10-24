@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "ratemyday",
+	"name": "Rate My Day",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "This plugin analyses the sentiment of your notes. Useful for tracking your mood over time.",
+	"author": "kym2006",
+	"authorUrl": "https://www.github.com/kym2006",
+	"fundingUrl": "https://www.buymeacoffee.com/ktxdym",
 	"isDesktopOnly": false
 }
